@@ -4,3 +4,7 @@ How to Use:
 If you’re using MacOs, please follow this page to set up your development environment:
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/your-first-mac-aspnet
 If you’re using Windows, please follow this page: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/index
+
+
+
+Original credit to Clemich38
